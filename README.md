@@ -10,6 +10,11 @@ I'm autistic, and have ADHD. I am not medicated for the ADHD, so I'm usually all
 No I'm not a super robot. My memory sucks, and I learn at a slower pace.<br>
 I love computers, and thought it would be fun to try to learn some web stuff and programming.<br>
 <br>
+I'm learning HTML/CSS and Python from www.freecodecamp.org
+<br>
+I'm learning Kotlin from https://hyperskill.org/
+<br>
+<br>
 My main hobby is crafting, mostly crochet. If I am able to create anything in the future there is a good chance that I'll add in some crafting elements to it.
 
 <!---
