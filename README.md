@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhoerner, orBrittany
+- 👋 Hi, I’m @bhoerner, or Brittany
 - 👀 I’m interested in ... Learning new things. 
 - 🌱 I’m currently learning ... Python, HTML/CSS, attempting Kotlin
 - 💞️ I’m looking to collaborate on ... I don't know
